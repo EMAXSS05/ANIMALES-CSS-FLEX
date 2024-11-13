@@ -15,7 +15,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(235, 116, 42);
+    background-color: rgb(240, 99, 47);
     height: 39%;
     width: 100%;
 }
@@ -23,20 +23,20 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: aqua;
+    background-color: #6CCFF6;
     height: 5%;
     width: 100%;
 }
 a{
     text-decoration: none;
     color: aliceblue;
-    background-color: rgba(22, 170, 229, 0.731);
+    background-color: #6CCFF6;
     font-size: 60px;
     padding: 40px;
     border-radius: 20px;
 }
 a:hover{
-    color: rgb(42, 85, 165);
+    color: rgb(45, 93, 182);
 
 }
 a:visited{
